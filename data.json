@@ -1,6 +1,6 @@
 [
-  { "id": 1, "name": "Jason", "age": 35, "active": true },
-  { "id": 2, "name": "Wendy", "age": 26, "active": false },
-  { "id": 3, "name": "Steve", "age": 46, "active": true },
-  { "id": 4, "name": "Kate", "age": 21, "active": true }
+  { "id": 1, "name": "Jason", "age": 35, "active": true, "lastUpdated": "" },
+  { "id": 2, "name": "Wendy", "age": 26, "active": false, "lastUpdated": "" },
+  { "id": 3, "name": "Steve", "age": 46, "active": true, "lastUpdated": "" },
+  { "id": 4, "name": "Kate", "age": 21, "active": true, "lastUpdated": "" }
 ]

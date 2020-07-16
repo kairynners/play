@@ -1,0 +1,5 @@
+This is a help file
+Some text
+
+
+The actual text which is now correct
